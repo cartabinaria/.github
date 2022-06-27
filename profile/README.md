@@ -15,7 +15,7 @@ loro sviluppo.
 | [Algoritmi e strutture di dati](https://github.com/csunibo/algoritmi-e-strutture-di-dati) | [![Build and Deploy](https://github.com/csunibo/algoritmi-e-strutture-di-dati/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/algoritmi-e-strutture-di-dati/actions/workflows/build-and-deploy.yml) |
 | [Analisi matematica](https://github.com/csunibo/analisi-matematica)                       | [![Build and Deploy](https://github.com/csunibo/analisi-matematica/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/analisi-matematica/actions/workflows/build-and-deploy.yml)                       |
 
-# Secondo anno
+## Secondo anno
 
 | insegnamento                                                                                                | stato                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ loro sviluppo.
 | [Reti di calcolatori](https://github.com/csunibo/reti-di-calcolatori)                                       | [![Build and Deploy](https://github.com/csunibo/reti-di-calcolatori/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/reti-di-calcolatori/actions/workflows/build-and-deploy.yml)                                       |
 | [Sistemi operativi](https://github.com/csunubo/sistemi-operativi)                                           | [![Build and Deploy](https://github.com/csunibo/sistemi-operativi/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/sistemi-operativi/actions/workflows/build-and-deploy.yml)                                           |
 
-# Terzo anno
+## Terzo anno
 
 | insegnamento                                                          | stato                                                                                                                                                                                                         |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
