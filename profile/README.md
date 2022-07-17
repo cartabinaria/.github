@@ -14,6 +14,7 @@ loro sviluppo.
 | [Algebra e geometria](https://github.com/csunibo/algebra-e-geometria)                     | [![Build and Deploy](https://github.com/csunibo/algebra-e-geometria/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/algebra-e-geometria/actions/workflows/build-and-deploy.yml)                     |
 | [Algoritmi e strutture di dati](https://github.com/csunibo/algoritmi-e-strutture-di-dati) | [![Build and Deploy](https://github.com/csunibo/algoritmi-e-strutture-di-dati/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/algoritmi-e-strutture-di-dati/actions/workflows/build-and-deploy.yml) |
 | [Analisi matematica](https://github.com/csunibo/analisi-matematica)                       | [![Build and Deploy](https://github.com/csunibo/analisi-matematica/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/analisi-matematica/actions/workflows/build-and-deploy.yml)                       |
+| [Architettura degli elaboratori](https://github.com/csunibo/architettura-degli-elaboratori)                       | [![Build and Deploy](https://github.com/csunibo/analisi-matematica/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/architettura-degli-elaboratori/actions/workflows/build-and-deploy.yml)           |
 
 ## Secondo anno
 
