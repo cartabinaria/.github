@@ -3,9 +3,9 @@ Informatica dell'Università di Bologna. Qui, chiunque è invitato a usufruire
 degli strumenti, delle risorse e dei progetti presenti, nonché a collaborare al
 loro sviluppo.
 
-# Insegnamenti
+## Insegnamenti
 
-## Primo anno
+### Primo anno
 
 | insegnamento                                                                                | stato                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -16,7 +16,7 @@ loro sviluppo.
 | [Algoritmi e strutture di dati](https://github.com/csunibo/algoritmi-e-strutture-di-dati)   | [![Lint file names](https://github.com/csunibo/algoritmi-e-strutture-di-dati/actions/workflows/check.yml/badge.svg)](https://github.com/csunibo/algoritmi-e-strutture-di-dati/actions/workflows/check.yml) [![Build and Deploy](https://github.com/csunibo/algoritmi-e-strutture-di-dati/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/algoritmi-e-strutture-di-dati/actions/workflows/build-and-deploy.yml)     |
 | [Analisi matematica](https://github.com/csunibo/analisi-matematica)                         | [![Lint file names](https://github.com/csunibo/analisi-matematica/actions/workflows/check.yml/badge.svg)](https://github.com/csunibo/analisi-matematica/actions/workflows/check.yml) [![Build and Deploy](https://github.com/csunibo/analisi-matematica/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/analisi-matematica/actions/workflows/build-and-deploy.yml)                                                 |
 
-## Secondo anno
+### Secondo anno
 
 | insegnamento                                                                                                | stato                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,8 +28,24 @@ loro sviluppo.
 | [Reti di calcolatori](https://github.com/csunibo/reti-di-calcolatori)                                       | [![Lint file names](https://github.com/csunibo/reti-di-calcolatori/actions/workflows/check.yml/badge.svg)](https://github.com/csunibo/reti-di-calcolatori/actions/workflows/check.yml) [![Build and Deploy](https://github.com/csunibo/reti-di-calcolatori/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/reti-di-calcolatori/actions/workflows/build-and-deploy.yml)                                                                             |
 | [Sistemi operativi](https://github.com/csunibo/sistemi-operativi)                                           | [![Lint file names](https://github.com/csunibo/sistemi-operativi/actions/workflows/check.yml/badge.svg)](https://github.com/csunibo/sistemi-operativi/actions/workflows/check.yml) [![Build and Deploy](https://github.com/csunibo/sistemi-operativi/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/sistemi-operativi/actions/workflows/build-and-deploy.yml)                                                                                     |
 
-## Terzo anno
+### Terzo anno
 
 | insegnamento                                                          | stato                                                                                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Informatica teorica](https://github.com/csunibo/informatica-teorica) | [![Lint file names](https://github.com/csunibo/informatica-teorica/actions/workflows/check.yml/badge.svg)](https://github.com/csunibo/informatica-teorica/actions/workflows/check.yml) [![Build and Deploy](https://github.com/csunibo/informatica-teorica/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/informatica-teorica/actions/workflows/build-and-deploy.yml) |
+
+## Bot
+
+| nome                                                      |
+| --------------------------------------------------------- |
+| [Informabot](https://github.com/csunibo/informabot)       |
+| [InfoBot](https://github.com/csunibo/cs-discord-bot)      |
+| [Segretario](https://github.com/csunibo/segretario_unibo) |
+
+## Altri progetti
+
+| nome                                                            | stato                                                                                                                                                                                   |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Raccoglitesi](https://github.com/csunibo/raccoglitesi)         | [![Deploy static content to Pages](https://github.com/csunibo/raccoglitesi/actions/workflows/pages.yml/badge.svg)](https://github.com/csunibo/raccoglitesi/actions/workflows/pages.yml) |
+| [Filenames linter](https://github.com/csunibo/filenames-linter) |                                                                                                                                                                                         |
+| [`csurename`](https://github.com/csunibo/csurename)             |                                                                                                                                                                                         |
