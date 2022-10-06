@@ -48,7 +48,7 @@ nonché a collaborare al loro sviluppo.
 | nome                                                      |
 | --------------------------------------------------------- |
 | [Informabot](https://github.com/csunibo/informabot)       |
-| [InfoBot](https://github.com/csunibo/cs-discord-bot)      |
+| [CSUniBot](https://github.com/csunibo/csunibot)      |
 | [Segretario](https://github.com/csunibo/segretario_unibo) |
 
 ## Altri progetti
