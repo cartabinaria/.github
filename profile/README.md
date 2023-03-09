@@ -3,6 +3,9 @@ del Corso di Laurea in Informatica dell'Università di Bologna. Qui, chiunque è
 invitato a usufruire degli strumenti, delle risorse e dei progetti presenti,
 nonché a collaborare al loro sviluppo.
 
+Vuoi sapere di più? Consulta [la nostra wiki](https://csunibo.github.io/wiki)
+o [mandaci un messaggio](https://t.me/Adm_bot_inf).
+
 ## Insegnamenti
 
 ### Primo anno
