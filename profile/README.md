@@ -60,7 +60,6 @@ nonché a collaborare al loro sviluppo.
 | nome                                                | stato                                                                                                                                                           |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Informabot](https://github.com/csunibo/informabot) | [![CodeQL](https://github.com/FoxySeta/informabot/actions/workflows/codeql.yml/badge.svg)](https://github.com/FoxySeta/informabot/actions/workflows/codeql.yml) |
-| [CSUniBot](https://github.com/csunibo/csunibot)     |
 
 ## Altro
 
