@@ -12,11 +12,10 @@ o [mandaci un messaggio](https://t.me/Adm_bot_inf).
 Le nostre [raccolte di risorse didattiche](https://dynamik.vercel.app/)
 includono:
 
-- [Informatica](https://dynamik.vercel.app/dash/informatica)
-- [Ingegneria informatica](https://dynamik.vercel.app/dash/ingegneria)
-
-- [Informatica
-  (magistrale)](https://dynamik.vercel.app/dash/informatica-magistrale)
+- Informatica ([triennale](https://dynamik.vercel.app/dash/informatica) e
+  [magistrale](https://dynamik.vercel.app/dash/informatica-magistrale));
+- Ingegneria informatica
+  ([triennale](https://dynamik.vercel.app/dash/ingegneria)).
 
 ## Progetti
 
