@@ -1,21 +1,21 @@
-[_CSUnibo_](https://csunibo.github.io) è un punto di raccolta per chi studia
-presso il  [Dipartimento di Informatica - Scienza e Ingegneria
-(DISI)](https://disi.unibo.it) dell'[Università di Bologna](https://unibo.it).
-Qui, chiunque è può usufruire degli strumenti, delle risorse e dei progetti
-presenti, nonché a collaborare al loro sviluppo.
+_CSUnibo_ è un punto di raccolta per chi studia presso il  [Dipartimento di
+Informatica - Scienza e Ingegneria (DISI)](https://disi.unibo.it)
+dell'[Università di Bologna](https://www.unibo.it). Qui, chiunque può usufruire
+degli strumenti, delle risorse e dei progetti presenti, nonché collaborare al
+loro sviluppo.
 
 Vuoi sapere di più? Consulta [la nostra wiki](https://csunibo.github.io/wiki)
 o [mandaci un messaggio](https://t.me/Adm_bot_inf).
 
 ## Raccolte di risorse
 
-Le nostre [raccolte di risorse didattiche](https://dynamic.vercel.app)
+Le nostre [raccolte di risorse didattiche](https://dynamik.vercel.app/)
 includono:
 
-- [Informatica](https://dynamic.vercel.app/informatica)
-- [Ingegneria informatica](https://dynamic.vercel.app/ingegneria)
+- [Informatica](https://dynamik.vercel.app/informatica)
+- [Ingegneria informatica](https://dynamik.vercel.app/ingegneria)
 
-- [Informatica (magistrale)](https://dynamic.vercel.app/informatica-magistrale)
+- [Informatica (magistrale)](https://dynamik.vercel.app/informatica-magistrale)
 
 ## Progetti
 
