@@ -23,7 +23,7 @@ includono:
 
 | nome                                                | stato                                                                                                                                                           |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Informabot](https://github.com/csunibo/informabot) | [![CodeQL](https://github.com/FoxySeta/informabot/actions/workflows/codeql.yml/badge.svg)](https://github.com/FoxySeta/informabot/actions/workflows/codeql.yml) |
+| [Informabot](https://github.com/csunibo/informabot) | [![Go](https://github.com/csunibo/informabot/actions/workflows/go.yml/badge.svg)](https://github.com/csunibo/informabot/actions/workflows/go.yml)
 
 ### _Web scraper_
 
@@ -43,6 +43,5 @@ includono:
 
 | nome                                                            | stato                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [`csurename`](https://github.com/csunibo/csurename)             | [![Rust](https://github.com/csunibo/csurename/actions/workflows/rust.yml/badge.svg)](https://github.com/csunibo/rust/actions/workflows/rust.yml)                                                                                                                                                                                     |
 | [Diario Tirocinio](https://github.com/csunibo/diario-tirocinio) | [![Deploy static content to Pages](https://github.com/csunibo/diario-tirocinio/actions/workflows/pages.yml/badge.svg)](https://github.com/csunibo/diario-tirocinio/actions/workflows/pages.yml)                                                                                                                                      |
 | [Laboratori](https://github.com/csunibo/lab)                    | [![Lint file names](https://github.com/csunibo/lab/actions/workflows/check.yml/badge.svg)](https://github.com/csunibo/lab/actions/workflows/check.yml) [![Build and Deploy](https://github.com/csunibo/lab/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/lab/actions/workflows/build-and-deploy.yml) |
