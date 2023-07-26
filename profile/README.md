@@ -13,7 +13,7 @@ Le nostre [raccolte di risorse didattiche](https://dynamik.vercel.app/)
 includono:
 
 - [Informatica](https://dynamik.vercel.app/dash/informatica)
-- [Ingegneria informatica](https://dynamik.vercel.app/dah/ingegneria)
+- [Ingegneria informatica](https://dynamik.vercel.app/dash/ingegneria)
 
 - [Informatica
   (magistrale)](https://dynamik.vercel.app/dash/informatica-magistrale)
