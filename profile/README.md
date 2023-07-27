@@ -16,6 +16,7 @@ includono:
   [magistrale](https://dynamik.vercel.app/dash/informatica-magistrale));
 - Ingegneria informatica
   ([triennale](https://dynamik.vercel.app/dash/ingegneria)).
+- Ingegneria e Scienze Informatiche ([magistrale](https://dynamik.vercel.app/dash/ingegneria-e-scienze-informatiche-magistrale));
 
 ## Progetti
 
