@@ -39,6 +39,7 @@ includono:
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [AsciiDoc](https://github.com/csunibo/asciidoc-thesis) | [![Build and publish AsciiDoc](https://github.com/csunibo/asciidoc-thesis/actions/workflows/asciidoc.yml/badge.svg)](https://github.com/csunibo/asciidoc-thesis/actions/workflows/asciidoc.yml) |
 | [LaTeX](https://github.com/csunibo/latex-thesis)       | [![Build and publish Latex](https://github.com/csunibo/latex-thesis/actions/workflows/tex.yml/badge.svg)](https://github.com/csunibo/latex-thesis/actions/workflows/tex.yml)                    |
+| [Typst](https://github.com/csunibo/typst-thesis)       | [![Typst](https://github.com/csunibo/typst-thesis/actions/workflows/typst.yml/badge.svg)](https://github.com/csunibo/typst-thesis/actions/workflows/typst.yml)                                  |
 
 ### Altro
 
