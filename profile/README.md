@@ -5,7 +5,7 @@ degli strumenti, delle risorse e dei progetti presenti, nonché collaborare al
 loro sviluppo.
 
 Vuoi sapere di più? Consulta [la nostra wiki](https://csunibo.github.io/wiki)
-o [mandaci un messaggio](https://t.me/Adm_bot_inf).
+o [mandaci un messaggio](https://t.me/csunibo).
 
 ## Raccolte di risorse
 
