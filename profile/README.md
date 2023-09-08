@@ -47,3 +47,7 @@ includono:
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Diario Tirocinio](https://github.com/csunibo/diario-tirocinio) | [![Deploy static content to Pages](https://github.com/csunibo/diario-tirocinio/actions/workflows/pages.yml/badge.svg)](https://github.com/csunibo/diario-tirocinio/actions/workflows/pages.yml)                                                                                                                                      |
 | [Laboratori](https://github.com/csunibo/lab)                    | [![Lint file names](https://github.com/csunibo/lab/actions/workflows/check.yml/badge.svg)](https://github.com/csunibo/lab/actions/workflows/check.yml) [![Build and Deploy](https://github.com/csunibo/lab/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/lab/actions/workflows/build-and-deploy.yml) |
+
+
+### Contributors
+[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/remarkablemark/html-react-parser/graphs/contributors)
