@@ -9,14 +9,14 @@ o [mandaci un messaggio](https://t.me/csunibo).
 
 ## Raccolte di risorse
 
-Le nostre [raccolte di risorse didattiche](https://dynamik.vercel.app/)
+Le nostre [raccolte di risorse didattiche](https://risorse.students.cs.unibo.it)
 includono:
 
-- Informatica ([triennale](https://dynamik.vercel.app/dash/informatica) e
-  [magistrale](https://dynamik.vercel.app/dash/informatica-magistrale));
+- Informatica ([triennale](https://risorse.students.cs.unibo.it/dash/informatica) e
+  [magistrale](https://risorse.students.cs.unibo.it/dash/informatica-magistrale));
 - Ingegneria informatica
-  ([triennale](https://dynamik.vercel.app/dash/ingegneria));
-- Ingegneria e Scienze Informatiche ([magistrale](https://dynamik.vercel.app/dash/ingegneria-e-scienze-informatiche-magistrale)).
+  ([triennale](https://risorse.students.cs.unibo.it/dash/ingegneria));
+- Ingegneria e Scienze Informatiche ([magistrale](https://risorse.students.cs.unibo.it/dash/ingegneria-e-scienze-informatiche-magistrale)).
 
 ## Progetti
 
@@ -30,6 +30,7 @@ includono:
 
 | nome                                                                              | stato                                                                                                                                                                                                             |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [UniboCalendar](https://github.com/VaiTon/unibocalendar)                          |                                                                                                                                                                                                                   |
 | [Raccoglitesi](https://github.com/csunibo/raccoglitesi)                           | [![Deploy static content to Pages](https://github.com/csunibo/raccoglitesi/actions/workflows/pages.yml/badge.svg)](https://github.com/csunibo/raccoglitesi/actions/workflows/pages.yml)                           |
 | [Course description merged](https://github.com/csunibo/course-description-merged) | [![Deploy static content to Pages](https://github.com/csunibo/course-description-merged/actions/workflows/pages.yml/badge.svg)](https://github.com/csunibo/course-description-merged/actions/workflows/pages.yml) |
 
@@ -46,4 +47,4 @@ includono:
 | nome                                                            | stato                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Diario Tirocinio](https://github.com/csunibo/diario-tirocinio) | [![Deploy static content to Pages](https://github.com/csunibo/diario-tirocinio/actions/workflows/pages.yml/badge.svg)](https://github.com/csunibo/diario-tirocinio/actions/workflows/pages.yml)                                                                                                                                      |
-| [Laboratori](https://github.com/csunibo/lab)                    | [![Build and Deploy](https://github.com/csunibo/lab/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/lab/actions/workflows/build-and-deploy.yml) |
+| [Laboratori fra pari](https://github.com/csunibo/lab)                    | [![Build and Deploy](https://github.com/csunibo/lab/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/csunibo/lab/actions/workflows/build-and-deploy.yml) |
